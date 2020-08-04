@@ -143,6 +143,10 @@ p {
 }
 
 @media (max-width: 992px) {
+  html {
+    width: 100vw;
+    overflow-x: hidden;
+  }
   .hide-mobile {
     display: none !important;
   }
@@ -210,4 +214,8 @@ p {
   position: fixed;
   left: 0px;
   bottom: 0px;
+}
+
+.fuck {
+  color: #F9A826", "#00BFA6", "#2e73ce", "#9f63ff", "#F50057", "#3587A4", "#C1DFF0", "#ABC4AB", "#F28F3B", "#00CC99", "#FCA17D", "#DA627D", "#FCA17D", "#E6F9AF", "#9067C6", "#F7ECE1", "#FFBE86", "#FFB5C2", "#D8973C", "#BD632F", "#EA638C", "#558B6E", "#88A09E"
 }
