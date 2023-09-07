@@ -4,7 +4,7 @@ I noticed that many web developer portfolios seem follow the same template. So t
 
 👉 View my website <a href="https://sebjagoe.com/">here</a>.
 
-🚀 <a href="https://hecklerjim.github.io/generated-portfolio/">View demo</a>
+🚀 <a href="https://seb-jagoe.github.io/generated-portfolio/">View demo</a>
 
 <hr>
 Built by <a href="https://sebjagoe.com/">Seb Jagoe</a>.
